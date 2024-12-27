@@ -1,0 +1,93 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{helvet}
+\usepackage{hyperref}
+\hypersetup{
+    pdfborder={0 0 0},
+}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Custom Formatting
+\titleformat{\section}{\Large\bfseries}{}{0pt}{}[\titlerule]
+\renewcommand{\baselinestretch}{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE\bf Amirhossein Yaghoubnezhad}\\[5pt]
+    \faPhone~(+39)3513388644 \quad \faMapMarker~Italy, Genova \quad \faEnvelope~\href{mailto:yaghoubnezhad.amirhossein@gmail.com}{yaghoubnezhad.amirhossein@gmail.com}\\[5pt]
+    \faLinkedin~\href{https://linkedin.com/in/amirhosein-yaghoubnezhad}{linkedin.com/in/amirhosein-yaghoubnezhad} \quad \faGlobe~\href{https://www.amirhosein-yaghoubnezhad.ir}{amirhosein-yaghoubnezhad.ir} \quad \faGithub~\href{https://github.com/imblackline}{github.com/imblackline}
+\end{center}
+
+\section*{Summary}
+Software Developer with a strong background in building scalable and performance-optimized web applications using a variety of modern technologies. Proficient in both \textbf{frontend} and \textbf{backend} development, with extensive experience in \textbf{Python}, \textbf{Vue.js}, \textbf{React.js}, \textbf{HTML/CSS}, \textbf{JavaScript/TypeScript}, and \textbf{Node.js}. Skilled at integrating \textbf{RESTful APIs}, \textbf{AWS services}, and databases like \textbf{PostgreSQL} and \textbf{MySQL}. Demonstrated leadership in team settings, from architecture design to deployment, applying \textbf{Agile methodologies} for efficient project delivery. Focused on delivering high-quality code and improving user experience.
+
+\section*{Professional Experience}
+
+\textbf{Intellisoftware | Software Developer} \hfill \textit{Remote, Australia (Apr 2023 -- Jun 2024)}\\
+\href{https://intellisoftware.au/}{\textit{https://intellisoftware.au/}}
+\begin{itemize}[noitemsep]
+    \item Deployed a seamless integration of AWS RDS with Lambda to enable real-time data processing, empowering the analytics team to generate reports 50\% faster and enhancing key decision-making capabilities.
+    \item Constructed a highly efficient search engine by integrating the OpenAI API with MongoDB queries, enhancing result relevance and enabling faster data retrieval for 10,000+ user searches daily.
+    \item Developed 12 core components for a hotel revenue booster platform using Vue 3, SCSS, Vuex, and Vuetify, improving user experience and functionality.
+    \item Refactored 5,000 lines of code and redesigned 15 platform segments, achieving a 20\% performance improvement.
+\end{itemize}
+
+\textbf{Carents | Co-Founder and Lead Developer} \hfill \textit{Iran, Mashhad (Nov 2021 -- Apr 2023)}\\
+\href{https://carental.ir/}{\textit{https://carental.ir/}}
+\begin{itemize}[noitemsep]
+    \item Secured 500,000,000 Rial in funding by presenting a comprehensive business model to Ferdowsi University incubator.
+    \item Led a technical team of 4 and delivered the MVP within 12 months by coordinating development tasks and ensuring project milestones were met.
+    \item Implemented the frontend using Vue 3, SCSS, Vuex, and Vue Router, resulting in a responsive and interactive user interface.
+    \item Created 10+ pages and 20+ components using Figma, improving design consistency and user engagement.
+\end{itemize}
+
+\textbf{Part Software Group | Software Developer} \hfill \textit{Iran, Mashhad (May 2020 -- Oct 2021)}\\
+\href{https://linkedin.com/company/part-software/}{\textit{https://linkedin.com/company/part-software/}}
+\begin{itemize}[noitemsep]
+    \item Developed 10+ responsive web pages for a task management app using Vue 3, reducing page load time to 1.5 seconds.
+    \item Delivered a questionnaire project in 1 month using Vue 2, Node.js, REST APIs, and PostgreSQL, improving client satisfaction by 30\%.
+    \item Optimized frontend performance with HTML5, CSS3, SCSS, Git, Vite, and Vue-router, enhancing user experience across devices.
+\end{itemize}
+
+\textbf{Nahid Aseman | Frontend Developer} \hfill \textit{Iran, Mashhad (Oct 2019 -- Jul 2020)}
+\begin{itemize}[noitemsep]
+    \item Designed and developed 5 statistical panels using Adobe XD, HTML, CSS, and JavaScript, improving data visualization and clarity.
+\end{itemize}
+
+\textbf{Farawin | Frontend Developer Intern} \hfill \textit{Iran, Mashhad (Jul 2019 -- Oct 2019)}\\
+\href{https://bootcamp.farawin.com/}{\textit{https://bootcamp.farawin.com/}}
+\begin{itemize}[noitemsep]
+    \item Built a responsive book reading web project, achieving a 95/100 score and positive feedback from the instructor.
+\end{itemize}
+
+\section*{Education}
+
+\textbf{Master of Computer Engineering (Software Platform and Cybersecurity)} \hfill \textit{Sep 2023 -- Present}\\
+\textit{University of Genova}
+
+\textbf{Bachelor of Computer Engineering} \hfill \textit{Sep 2017 -- Jan 2023}\\
+\textit{Ferdowsi University of Mashhad}
+
+\section*{Selected Projects}
+\begin{itemize}[noitemsep]
+    \item \textbf{VGANG} \href{https://vgang.io/}{(vgang.io)} -- Refactored a Shopify-integrated dropshipping platform using Vue.js, reducing load times by 25\%.
+    \item \textbf{Healclife} \href{https://healclife.vercel.app/}{(healclife.vercel.app)} -- Developed a health event management platform with Vue 3 and Leaflet, increasing event registrations by 15\%.
+    \item \textbf{Carent} \href{https://service.carental.ir/}{(service.carental.ir)} -- Built a car rental platform using Vue.js, enhancing rental efficiency and user engagement.
+    \item \textbf{Betatire} \href{https://betatire.vercel.app/}{(betatire.vercel.app)} -- Designed an asset management blockchain frontend using Vue.js and Tailwind CSS.
+    \item \textbf{TakTask} -- Created a minimal task management platform with Vue.js and Tailwind CSS, improving productivity for 500+ users.
+\end{itemize}
+
+\section*{Languages}
+English \quad \textbullet \quad Italian \quad \textbullet \quad Persian (Native)
+
+\end{document}
