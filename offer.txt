@@ -1,13 +1,37 @@
-Degree in Computer Science, Computer Engineering, Mathematics, Physics or similar
-Good knowledge of at least one of the following languages: Python, C#, Java
-6/12 months of experience as a SW Developer in a multinational and modernly organised company or in consultancy activities is welcome
-Good knowledge of SQL
-Excellent knowledge of the Italian language and good knowledge of the English language
-Interest in learning new technologies and development methodologies.
-Strong problem solving orientation, with analytical skills and an aptitude for effective communication.
-Curiosity and proactivity complete the profile
-Knowledge of Microsoft Azure Ecosystem is appreciated
-Knowledge of REST and SOAP APIs is appreciated
-Knowledge of code communication (message broker) is appreciated
-Knowledge of microservices architecture principles is appreciated
-Knowledge of Salesforce and APEX and Visualforce languages ​​is appreciated
+NTT DATA, a Trusted Global Innovator, is one of the world's leading players in IT services. With more than 150,000 professionals in over 50 countries around the world, we are protagonists and accelerators of digital transformation by offering our customers tailor-made technological and innovative solutions.
+
+The engine of NTTDATA is people, each with their own uniqueness, talent and attitude. We have built a Smile Working Company in which caring, listening to people, their well-being and developing skills are our priority. We have created workspaces that foster a sense of community and the constructive exchange of experiences. We look to our tomorrow with the same passion as yesterday and we also need your talent!
+
+ 
+
+Responsibilities
+
+With a view to strengthening our teams, we are looking for Front-end Web Developers with a good knowledge of the world of web applications based on Single Page Application frameworks.
+
+You will be responsible for the creation of Web Applications and portals operating within structured and international teams.
+
+Required Skills
+
+At least 3 years of experience in web front-end development for Enterprise projects;
+Good knowledge of Javascript ES6+ (classes, objects, modules) and Typescript;
+Excellent knowledge of HTML5, CSS3, SASS, CSS-in-JS and Responsive Design.
+Knowledge of the basic concepts of functional programming (RXJS);
+Esperienza con library React, React hooks, CSS-in-JS, Styled Component, Design Pattern (Singleton, Observer, Delegation), Networking (REST, Multi-threading, Cache, etc.)
+
+
+Preferential requirements
+
+Bachelor's or Master's degree in STEM disciplines;
+Good knowledge of SEO / Performance / Accessibility best practices;
+Good knowledge of Node.js;
+Basic knowledge of DB SQL and No-SQL;
+Basic knowledge of Web Services (REST/SOAP), Unit Testing and E2E Testing;
+Knowledge of code versioning tools is appreciated;
+Excellent knowledge of the English language.
+
+
+Analytical skills, result orientation, predisposition to teamwork, people management and effective communication are what we ask of you to become part of our Company.
+
+We are looking for resources for all our offices in: Milan, Treviso, Turin, Bologna, Genoa, Pisa, Rome, Salerno, Naples, Bari, Cosenza.
+
+All of our offices have been renovated to enhance the on-site work experience. We also apply very flexible smart working policies.
